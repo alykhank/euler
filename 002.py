@@ -1,4 +1,5 @@
-"""Find the sum of the even-valued terms in the Fibonacci sequence (<4M)"""
+"""Find the sum of the even-valued terms in the Fibonacci sequence (<4M)."""
+
 sum = 0
 a = 1
 b = 1

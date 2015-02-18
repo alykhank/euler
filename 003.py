@@ -1,4 +1,5 @@
-"""Find the largest prime factor of the number 600851475143"""
+"""Find the largest prime factor of the number 600851475143."""
+
 from math import floor, sqrt
 
 NUM = 600851475143

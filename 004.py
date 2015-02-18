@@ -1,6 +1,7 @@
 """Find the largest palindrome made from the product of two 3-digit numbers."""
+
 def is_palindrome(n):
-    """Determine if n is a palindrome"""
+    """Determine if n is a palindrome."""
     for i, c in enumerate(n[:len(n)/2]):
         if c != n[(len(n)-1) - i]:
             return False
