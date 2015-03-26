@@ -9,8 +9,6 @@ while a + b < 4_000_000 {
     if (a + b) % 2 == 0 {
         sum += a + b
     }
-    var temp = a + b
-    a = b
-    b = temp
+    (a, b) = (b, a + b)
 }
 println(sum)
