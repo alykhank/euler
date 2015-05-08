@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Find the 10,001st prime number."""
 
 import math

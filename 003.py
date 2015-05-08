@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Find the largest prime factor of the number 600851475143."""
 
 from math import floor, sqrt

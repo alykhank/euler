@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Find the smallest possible number that is the LCM of 1-20."""
 
 LCM_1_TO_10 = 2520

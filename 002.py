@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Find the sum of the even-valued terms in the Fibonacci sequence (<4M)."""
 
 sum = 0

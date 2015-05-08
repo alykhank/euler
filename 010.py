@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Find the sum of all the primes below two million."""
 
 import math

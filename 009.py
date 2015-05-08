@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """Find the product abc where a, b, c are a Pythagorean triplet for which a + b + c = 1000."""
 
 TRIPLET_SUM = 1000
